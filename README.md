@@ -1,8 +1,5 @@
-![Header](https://github.com/kirchenson/kirchenson/blob/main/assets/logo.png)
-
 ## I'm a Python Developer.
 
-I'm currently working on...
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-535B48?style=for-the-badge&logo=python&logoColor=F7D44F)
